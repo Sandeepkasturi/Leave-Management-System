@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>HR  Admin</description>
+        <elevated_privilege>false</elevated_privilege>
+        <federated_id>ls8Nf0GQYUsksbrGn4tDr9z/BRRE1NxpM9sgCKYqdew=</federated_id>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_2064375_leave_0.hr_admin</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>hr_admin</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-30 04:52:48</sys_created_on>
+        <sys_id>0ea694a383810310dcc3a4d0deaad33c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_2064375_leave_0.hr_admin</sys_name>
+        <sys_package display_value="Leave Management System" source="x_2064375_leave_0">42a654a383810310dcc3a4d0deaad3df</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Leave Management System">42a654a383810310dcc3a4d0deaad3df</sys_scope>
+        <sys_update_name>sys_user_role_0ea694a383810310dcc3a4d0deaad33c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-30 04:52:48</sys_updated_on>
+    </sys_user_role>
+</record_update>
