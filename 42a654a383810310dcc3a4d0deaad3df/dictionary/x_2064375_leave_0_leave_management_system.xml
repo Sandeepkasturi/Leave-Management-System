@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="44a7542783810310dcc3a4d0deaad30f" extends="task" label="Leave Management System" max_length="40" name="x_2064375_leave_0_leave_management_system" type="collection">
         <element label="End Date" max_length="40" name="end_date" type="glide_date"/>
-        <element label="Employee" max_length="32" name="employee" reference="imp_user" type="reference"/>
+        <element label="Start Date" max_length="40" name="start_dat0" type="glide_date"/>
+        <element label="Employee" max_length="32" name="employee" reference="sys_user" type="reference"/>
+        <element label="Reason" max_length="400" name="reaso0" type="string"/>
+        <element choice="3" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Approved" sequence="1" value="approved"/>
+                <element inactive_on_update="false" label="Applied" sequence="0" value="applied"/>
+                <element inactive_on_update="false" label="Declined" sequence="2" value="declined"/>
+            </choice>
+        </element>
         <element choice="3" label="Leave Type" max_length="40" name="leave_type" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Casual" sequence="0" value="casual"/>
@@ -9,7 +18,23 @@
                 <element inactive_on_update="false" label="Sick" sequence="1" value="sick"/>
             </choice>
         </element>
+        <element choice="3" label="Leave Type" max_length="40" name="leave_typ0" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Personal" sequence="1" value="personal"/>
+                <element inactive_on_update="false" label="Casual" sequence="0" value="casual"/>
+                <element inactive_on_update="false" label="Sick" sequence="2" value="sick"/>
+            </choice>
+        </element>
+        <element choice="3" label="Status" max_length="40" name="statu0" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Applied" sequence="0" value="applied"/>
+                <element inactive_on_update="false" label="Rejected" sequence="2" value="rejected"/>
+                <element inactive_on_update="false" label="Approved" sequence="1" value="approved"/>
+            </choice>
+        </element>
         <element label="Start Date" max_length="40" name="start_date" type="glide_date"/>
+        <element label="Employee" max_length="32" name="employe0" reference="sys_user" type="reference"/>
         <element label="Reason" max_length="400" name="reason" type="string"/>
+        <element label="End Date" max_length="40" name="end_dat0" type="glide_date"/>
     </element>
 </database>
