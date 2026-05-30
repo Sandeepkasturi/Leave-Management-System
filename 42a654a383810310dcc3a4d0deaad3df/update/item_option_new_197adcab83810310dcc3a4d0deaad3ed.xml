@@ -2,7 +2,7 @@
     <item_option_new action="INSERT_OR_UPDATE">
         <active>true</active>
         <attributes/>
-        <cat_item display_value="Apply Leave">bb19102b83810310dcc3a4d0deaad328</cat_item>
+        <cat_item display_value="Apply for Leave">bb19102b83810310dcc3a4d0deaad328</cat_item>
         <category/>
         <choice_direction>down</choice_direction>
         <choice_field/>
@@ -52,7 +52,7 @@
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>What do you need leave for?</question_text>
+        <question_text>What is your leave type</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -82,14 +82,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-05-30 05:13:43</sys_created_on>
         <sys_id>197adcab83810310dcc3a4d0deaad3ed</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>What do you need leave for?</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>What is your leave type</sys_name>
         <sys_package display_value="Leave Management System" source="x_2064375_leave_0">42a654a383810310dcc3a4d0deaad3df</sys_package>
         <sys_policy/>
         <sys_scope display_value="Leave Management System">42a654a383810310dcc3a4d0deaad3df</sys_scope>
         <sys_update_name>item_option_new_197adcab83810310dcc3a4d0deaad3ed</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-05-30 05:13:45</sys_updated_on>
+        <sys_updated_on>2026-05-30 15:26:16</sys_updated_on>
         <table/>
         <tooltip/>
         <topic_block/>

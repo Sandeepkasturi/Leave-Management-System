@@ -32,7 +32,7 @@
         <mobile_picture/>
         <mobile_picture_type>use_desktop_picture</mobile_picture_type>
         <model/>
-        <name>Apply Leave</name>
+        <name>Apply for Leave</name>
         <no_attachment_v2>true</no_attachment_v2>
         <no_cart>false</no_cart>
         <no_cart_v2>false</no_cart_v2>
@@ -90,14 +90,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2026-05-30 05:03:34</sys_created_on>
         <sys_id>bb19102b83810310dcc3a4d0deaad328</sys_id>
-        <sys_mod_count>21</sys_mod_count>
-        <sys_name>Apply Leave</sys_name>
+        <sys_mod_count>23</sys_mod_count>
+        <sys_name>Apply for Leave</sys_name>
         <sys_package display_value="Leave Management System" source="x_2064375_leave_0">42a654a383810310dcc3a4d0deaad3df</sys_package>
         <sys_policy/>
         <sys_scope display_value="Leave Management System">42a654a383810310dcc3a4d0deaad3df</sys_scope>
         <sys_update_name>sc_cat_item_producer_bb19102b83810310dcc3a4d0deaad328</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2026-05-30 05:17:58</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2026-05-30 15:26:17</sys_updated_on>
         <table_name>x_2064375_leave_0_leave_management_system</table_name>
         <taxonomy_topic/>
         <template/>
@@ -105,7 +105,7 @@
         <type>item</type>
         <use_sc_layout>true</use_sc_layout>
         <vendor/>
-        <version>21</version>
+        <version>23</version>
         <view/>
         <visible_bundle>true</visible_bundle>
         <visible_guide>true</visible_guide>
