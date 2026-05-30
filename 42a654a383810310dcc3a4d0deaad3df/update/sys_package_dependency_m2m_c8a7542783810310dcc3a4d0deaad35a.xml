@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">49fb2e42187232108bb255f46a373aaf</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-05-30 04:57:02</sys_created_on>
+        <sys_id>c8a7542783810310dcc3a4d0deaad35a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Leave Management System" source="x_2064375_leave_0">42a654a383810310dcc3a4d0deaad3df</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-05-30 04:57:02</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
